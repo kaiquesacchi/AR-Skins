@@ -12,8 +12,15 @@
 			]
 		},
 		{
-			"Name": "GoogleARCoreServices",
-			"Enabled": true
+			"Name": "AppleARKit",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"IOS"
+			]
 		}
+	],
+	"TargetPlatforms": [
+		"Android",
+		"IOS"
 	]
 }
