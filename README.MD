@@ -24,8 +24,8 @@ O projeto foi dividido em dois grupos de requisitos. O primeiro, de requisitos e
 ### Requisitos complementares
 
 - ~~[ ] Alterar a profundidade da projeção (Depth API)~~ _Não disponível na UE4_
-- [ ] Reprodução de animações pré-definidas
-- [ ] Configuração de Iluminação Artificial
+- ~~[ ] Reprodução de animações pré-definidas~~ _Substituído por período de testes.
+- ~~[ ] Configuração de Iluminação Artificial~~ _Substituído por período de testes.
 - [x] Interface por meio de gestos
 - [x] Marketplace simples (melhorar estética da listagem)
 
@@ -42,7 +42,7 @@ O projeto foi dividido em dois grupos de requisitos. O primeiro, de requisitos e
 | 02/11 - 08/11        | <ul><li>Reset da sessão AR</li><li>Finalização do MVP</li></ul>                                                                                                 |
 | 09/11 - 15/11        | <ul><li>Melhoria estética do Market Place</li><li>Desenhar ícones dos botões</li></ul>                                                                          |
 | 16/11 - 22/11        | <ul><li>Planejar testes de usuário para melhorias da interface</li><li>Calibração dos gestos (Parametrização)</li></ul>                                         |
-| 23/11 - 29/11        | <ul><li>Pesquisa sobre Iluminação artificial e implementação (se possível)</li><li>Teste de usuário</li></ul>                                                   |
-| 30/11 - 06/12        | <ul><li>Procurar modelos com animação</li><li>Pesquisa sobre animação e implementação (se possível)</li><li>Estudo dos resultados do teste de usuário</li></ul> |
-| 07/12 - 13/12        | <ul><li>Preparação para apresentação final</li></ul>                                                                                                            |
+| 23/11 - 29/11        | <ul><li>Teste de usuário</li></ul>                                                                                                                              |
+| 30/11 - 06/12        | <ul><li>Compilação dos resultados do teste de usuário</li><li>Correções e melhorias sugeridas pelo resultado do teste</li></ul>                                 |
+| 07/12 - 13/12        | <ul><li>Finalização da documentação</li><li>Preparação para apresentação final</li></ul>                                                                        |
 | 14/12                | <ul><li>Apresentação Final</li></ul>                                                                                                                            |
