@@ -24,8 +24,8 @@ O projeto foi dividido em dois grupos de requisitos. O primeiro, de requisitos e
 ### Requisitos complementares
 
 - ~~[ ] Alterar a profundidade da projeção (Depth API)~~ _Não disponível na UE4_
-- ~~[ ] Reprodução de animações pré-definidas~~ _Substituído por período de testes.
-- ~~[ ] Configuração de Iluminação Artificial~~ _Substituído por período de testes.
+- ~~[ ] Reprodução de animações pré-definidas~~ _Substituído por período de testes._
+- ~~[ ] Configuração de Iluminação Artificial~~ _Substituído por período de testes._
 - [x] Interface por meio de gestos
 - [x] Marketplace simples (melhorar estética da listagem)
 
