@@ -1,4 +1,4 @@
-# Figure It Out
+# AR Skins - Figure It Out
 
 #### Projeto da disciplina de Tecnologias para Aplicações Interativas (PCS3559/PCS3859).
 
